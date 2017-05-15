@@ -3,6 +3,7 @@
 ## WIP
 
 - Add support for Boxer (via @icopp)
+- Add support for Bear (via @scooby)
 
 ## Mackup 0.8.16
 

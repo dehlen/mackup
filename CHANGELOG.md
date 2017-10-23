@@ -5,6 +5,7 @@
 - Add support for Boxer (via @icopp)
 - Add support for Franz (via @stephen2m)
 - Add backing up vscode extensions (via @stephen2m)
+- Update support for IntelliJ (via @scooby)
 
 ## Mackup 0.8.16
 

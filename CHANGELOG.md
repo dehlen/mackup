@@ -8,6 +8,7 @@
 - Add backing up vscode extensions (via @stephen2m)
 - Update support for IntelliJ (via @scooby)
 - Add additional Spectacle library path (via @iansym)
+- Add support for Bear (via @scooby)
 
 ## Mackup 0.8.16
 
